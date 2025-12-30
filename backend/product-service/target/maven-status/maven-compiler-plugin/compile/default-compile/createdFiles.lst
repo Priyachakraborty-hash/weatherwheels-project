@@ -1,0 +1,5 @@
+com\weatherwheels\product\repository\ProductRepository.class
+com\weatherwheels\product\service\ProductService.class
+com\weatherwheels\product\controller\ProductController.class
+com\weatherwheels\product\ProductServiceApplication.class
+com\weatherwheels\product\entity\Product.class

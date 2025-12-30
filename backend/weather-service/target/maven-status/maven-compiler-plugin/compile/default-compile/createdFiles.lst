@@ -1,0 +1,5 @@
+com\weatherwheels\weather\service\WeatherService.class
+com\weatherwheels\weather\controller\WeatherController.class
+com\weatherwheels\weather\repository\WeatherRepository.class
+com\weatherwheels\weather\entity\Weather.class
+com\weatherwheels\weather\WeatherServiceApplication.class
