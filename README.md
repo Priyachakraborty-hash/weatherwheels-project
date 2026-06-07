@@ -1,4 +1,4 @@
-# 🌾 WeatherWheels - Smart Agricultural Equipment Marketplace
+#  WeatherWheels : A Smart Agricultural Equipment Marketplace
 
 ## Project Overview
 WeatherWheels is an innovative platform that recommends and sells agricultural vehicles and equipment based on real-time weather forecasts and seasonal patterns. Farmers get personalized equipment recommendations based on their location's weather conditions.
