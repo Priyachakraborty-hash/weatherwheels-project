@@ -3,7 +3,7 @@
 ## Project Overview
 WeatherWheels is an innovative platform that recommends and sells agricultural vehicles and equipment based on real-time weather forecasts and seasonal patterns. Farmers get personalized equipment recommendations based on their location's weather conditions.
 
-## Architecture
+Architecture
 - **Backend**: Java Spring Boot Microservices
 - **Database**: MySQL
 - **Frontend**: React.js with ES6+, Modern CSS
