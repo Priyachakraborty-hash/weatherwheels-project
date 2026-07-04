@@ -5,7 +5,7 @@ WeatherWheels is an innovative platform that recommends and sells agricultural v
 
 Architecture
 - **Backend**: Java Spring Boot Microservices
-- **Database**: MySQL
+**Database**: MySQL
 - **Frontend**: React.js with ES6+, Modern CSS
 - **Message Broker**: RabbitMQ (for microservice communication)
 - **Service Discovery**: Eureka Server
